@@ -4,7 +4,7 @@
 		module="akka-quickstart-scala-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190710005933"
+		publication="20190713115141"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
@@ -41,5 +41,11 @@
 			<artifact name="global-plugins" type="doc" ext="jar" conf="compile" e:classifier="javadoc"/>
 		</dependency>
 		<dependency org="io.spray" name="sbt-revolver" rev="0.9.1" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="com.typesafe.play" name="sbt-plugin" rev="2.6.16" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="org.scalastyle" name="scalastyle-sbt-plugin" rev="1.0.0" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="com.lucidchart" name="sbt-scalafmt" rev="1.12" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="org.wartremover" name="sbt-wartremover" rev="2.2.1" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="com.timushev.sbt" name="sbt-updates" rev="0.3.4" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="com.colisweb.sbt" name="sbt-datadog" rev="0.1.8" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
 	</dependencies>
 </ivy-module>

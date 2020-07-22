@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="akka-quickstart-scala"
+		module="akka-quickstart-scala$sources"
+		revision="1.0"
+		conf="dd-java-agent"
+		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, it, compile-internal, runtime-internal, test-internal, it-internal, plugin, pom, scala-tool, scalafmt, dd-java-agent"
+		date="20190713113400"/>
+	<dependencies>
+		<module organisation="com.datadoghq" name="dd-java-agent">
+			<revision name="0.30.0" status="release" pubdate="20190617223729" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/datadog/dd-trace-java" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="2513" time="0" location="/Users/pejman.tabassomi/.ivy2/cache/com.datadoghq/dd-java-agent/ivy-0.30.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/datadoghq/dd-java-agent/0.30.0/dd-java-agent-0.30.0.pom"/>
+				<caller organisation="akka-quickstart-scala" name="akka-quickstart-scala$sources" conf="dd-java-agent" rev="0.30.0" rev-constraint-default="0.30.0" rev-constraint-dynamic="0.30.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="dd-java-agent" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4139" time="0" location="/Users/pejman.tabassomi/.ivy2/cache/com.datadoghq/dd-java-agent/srcs/dd-java-agent-0.30.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/datadoghq/dd-java-agent/0.30.0/dd-java-agent-0.30.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

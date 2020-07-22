@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /Users/pejman.tabassomi/DDproject/ScalaPlayAkka/akka-quickstart-scala/target/scala-2.12/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.7:compile for Scala 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:/Users/pejman.tabassomi/.ivy2/cache/org.wartremover/wartremover_2.12/jars/wartremover_2.12-2.2.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pejman.tabassomi/DDproject/ScalaPlayAkka/akka-quickstart-scala/target/scala-2.12/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/classes:/Users/pejman.tabassomi/.sbt/boot/scala-2.12.6/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pejman.tabassomi/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.6.0-M2.jar:/Users/pejman.tabassomi/.ivy2/cache/com.typesafe/config/bundles/config-1.3.4.jar:/Users/pejman.tabassomi/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/bundles/scala-java8-compat_2.12-0.8.0.jar:/Users/pejman.tabassomi/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/jars/akka-testkit_2.12-2.6.0-M2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pejman.tabassomi/DDproject/ScalaPlayAkka/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pejman.tabassomi/DDproject/ScalaPlayAkka/akka-quickstart-scala/src/main/scala/com/example/TestClass.java[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

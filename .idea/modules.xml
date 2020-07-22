@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-quickstart-scala.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-quickstart-scala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-quickstart-scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-quickstart-scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
     </modules>
   </component>
 </project>
